@@ -1,0 +1,5 @@
+[
+  "tests/test_fast_json_transform.py::TestTransform::test_basic",
+  "tests/test_fast_json_transform.py::TestTransform::test_empty",
+  "tests/test_fast_json_transform.py::TestTransform::test_type_error"
+]
